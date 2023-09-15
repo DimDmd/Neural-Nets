@@ -2,7 +2,7 @@
 
 
 
-Kernel2cf9112467 : Is a solution to IEEE-Fraud Detection Competition on Kaggle. 
+IEEE_Fraud_Detection : Is a solution to IEEE-Fraud Detection Competition on Kaggle. 
 The notebook is featuring a bagging ensemble approach consisting of 20 neural networks trained in deferent parts of the full dataset, 
 and finally a metaclassifier which provides the final fraud probabilities.                                                          
 
